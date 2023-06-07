@@ -1,0 +1,85 @@
+The Hospital Management System it is simple web application develop in PHP MySQL database, using Bootstrap, Modal, HTML, CSS, and Ajax, the system contains of admin and user, the admin can manage all user like update information, delete, and add user. The user is represent a Doctor and Patient. This system web application is very user-friendly and easy to use.
+
+** Admin Dashboard **
+Profile, Patients Book, Add Doctors, Doctor’s Record, Appointment, Add Outbreaks, Like Outbreaks, HIV, HIV Reports.
+
+** Profile**
+First Name Second Name, Email, Role, Gender, and Phone Number.
+
+** Patients **
+Name, Location, Age, Attended, Doctor, and Print.
+
+** Add Doctors **
+First Name, Second Name, Email, Phone, Role, and Gender.
+
+** Doctors Record **
+First Name, Second Name, Email, Phone, Role, and Gender.
+
+** Add Outbreaks **
+Outbreak, Comment, Location, and Measurers.
+
+** Likely Outbreak **
+Outbreak, Comment, Location, Measurers, and Edit.
+
+** HIV **
+Name, Age, Location, Mode of Contraction, Doctors Comment.
+
+** HIV Reports **
+Name, Age, Location, Mode of Contraction, Doctors Comment and Recorded.
+
+** User Doctor Dashboard **
+Outbreaks, Patients, Patient Book, Appointment Replied Apps, HIV Record, Change Password.
+
+** Outbreaks **
+Comments, Location, Recorded, Measures, and Edit.
+
+** Patients **
+Name, Location, Age, Attended, Doctor, Print
+
+** Patients Book **
+Name, Location, Age, Attended, Doctor, Print
+
+** Appointment **
+Patient Number, Name, Message, and Reply.
+
+** HIV **
+
+Name, Age, Location, Mode of Contraction, and Doctors Comments.
+
+** HIV Reports **
+Name, Age, Location, Mode of Contraction, and Doctors Comments.
+
+** Dashboard User Patient **
+
+** Profile Patient **
+Full Name, Patient Number, Phone Number, Message, Doctors, Book Appointment.
+
+Hospital Management System
+Name of Project:     Hospital Management System
+Language Used:      PHP
+Database Used:      My SQL
+Design Interface:    Bootstrap JavaScript, HTML, Ajax, JQuery,
+Browser:                  Opera Mozilla Google Chrome IE8,
+Software:                 WAMP/ XAMPP/ LAMP/MAMP
+About System
+
+How to setup this project
+Step 1st. Download xampp
+Step 2nd. Text editor notepad++ or Sublime
+Step 3rd. Download the zip file/ Download winrar
+Step 4th. Extract the file and copy *“ Hospital_Management_System ”* folder
+Step 5th. Paste inside root directory/ where you install xampp local disk C: drive D: drive E: paste: for xampp/htdocs,
+Step 6th. Open PHPMyAdmin http://localhost/phpmyadmin
+Step 7th. Create database name hospital
+Step 8th. Import hospital.sql file given inside the zip package in SQL file folder
+Step 9th. Run the script http://localhost/Hospital_Management_System
+Step 10th. Password
+Doctor
+?user: totonajoyce@gmail.com
+?pass: 12345
+Admin
+?user: bensontesting@gmail.com
+?pass: programming
+? Patient
+?user: 0725667841
+?pass: 4066
